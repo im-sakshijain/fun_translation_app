@@ -13,3 +13,9 @@ textarea{
     margin:1rem;
     padding:1rem;
 }
+#btn-translate{
+  width:10%;
+  margin-left:45%;
+  margin-right:45%;
+  /*align-items: center;*/
+}
