@@ -1,10 +1,13 @@
-
+body{
+  background-color: rgb(36, 37, 37, 14);
+}
 textarea{
     width:90%;
     height:10vh;
     display:block;
     margin:1rem;
     padding:1rem;
+    background-color: tomato;
 }
 #output{
     border:1px solid black;
@@ -12,6 +15,7 @@ textarea{
     width:80%;
     margin:1rem;
     padding:1rem;
+    background-color: rgb(241, 217, 109);
 }
 #btn-translate{
   width:10%;
