@@ -4,12 +4,13 @@
 //var welcomeMessage="this script works! "+username
 //script
 //alert(welcomeMessage);
-var btnTranslate= document.querySelector("#btn-translate");
+var btnTranslate= document.querySelector(".btn-translate");
 //console.log(btnTranslate)
 var txtInput=document.querySelector("#txt-input");
 var outputDiv=document.querySelector("#output");
 //var serverURL = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
-var serverURL = "https://api.funtranslations.com/translate/minion.json"
+var serverURL = "https://api.funtranslations.com/translate/ferb-latin.json"
+	
 
 //outputDiv.innerText="sakshi"
 //console.log(output)
