@@ -5,8 +5,8 @@ textarea{
     width:90%;
     height:10vh;
     display:block;
-    margin:1rem;
-    padding:1rem;
+    margin:2rem 3rem 2rem 1rem;
+    padding:1rem 3rem 3rem 2rem;
     background-color: tomato;
 }
 #output{
