@@ -21,5 +21,6 @@ textarea{
   width:20%;
   margin-left:40%;
   margin-right:40%;
+  height: fit-content;
   /*align-items: center;*/
 }
